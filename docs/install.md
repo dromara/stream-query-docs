@@ -13,7 +13,7 @@
 ```xml
 <!-- https://search.maven.org/artifact/org.dromara.stream-query/stream-query -->
 <dependency>
-    <groupId>org.dromara.streamquery</groupId>
+    <groupId>org.dromara.stream-query</groupId>
     <artifactId>stream-core</artifactId>
     <version>${stream-query-version}</version>
 </dependency>
@@ -23,7 +23,7 @@
 
 ```gradle
 // https://search.maven.org/artifact/org.dromara.stream-query/stream-query
-implementation group: 'org.dromara.streamquery', name: 'stream-core', version: '版本号在上面'
+implementation group: 'org.dromara.stream-query', name: 'stream-core', version: '版本号在上面'
 ```
 
 <!-- tabs:end -->
@@ -39,7 +39,7 @@ implementation group: 'org.dromara.streamquery', name: 'stream-core', version: '
 ```xml
 <!-- https://search.maven.org/artifact/org.dromara.stream-query/stream-query -->
 <dependency>
-    <groupId>org.dromara.streamquery</groupId>
+    <groupId>org.dromara.stream-query</groupId>
     <artifactId>stream-plugin-mybatis-plus</artifactId>
     <version>${stream-query-version}</version>
 </dependency>
@@ -49,7 +49,7 @@ implementation group: 'org.dromara.streamquery', name: 'stream-core', version: '
 
 ```gradle
 // https://search.maven.org/artifact/org.dromara.stream-query/stream-query
-implementation group: 'org.dromara.streamquery', name: 'stream-plugin-mybatis-plus', version: '版本号在上面'
+implementation group: 'org.dromara.stream-query', name: 'stream-plugin-mybatis-plus', version: '版本号在上面'
 ```
 
 <!-- tabs:end -->
