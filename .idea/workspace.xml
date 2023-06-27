@@ -4,101 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a79be47-8a5a-4f6f-8fc2-adcb5a7595a6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/fastRequest/fastRequestCurrentProjectLocalConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+    <list default="true" id="53997e8a-f93c-4612-8d74-e651fb9dc094" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.fastRequest/config/fastRequestCurrentProjectConfig.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/stream-query-docs.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/0.styles.14434675.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/11.a8b082e7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/12.a7cd64ad.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/13.bc4e1912.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/14.9c942f49.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/15.b060a93b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/16.0e137da0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/17.cf7d49e4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/18.ab819ced.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/19.84beffc9.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/2.426b03d9.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/2.426b03d9.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/21.21821980.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/22.f4e62bf1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/23.c73b7faa.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/24.e2da5835.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/25.fc7f7753.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/26.0e342f65.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/27.30593af4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/28.a340ad28.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/29.cc91c72c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/3.90507884.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/30.74c830e5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/31.ee240201.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/32.12ef8fe7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/33.2e679ce8.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/34.b3ce1066.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/35.93fb7361.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/36.683b34d3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/37.464dff17.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/38.5825cff9.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/39.516c3b70.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/40.844145f4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/41.ff60875f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/42.57fa0f28.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/43.4d41edfc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/44.112a63db.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/45.08ea7426.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/5.b37f4009.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/8.f0183211.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/9.8b8acad1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/app.931556fd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/088c16/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/088c16/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/0fc1d2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/0fc1d2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/197691/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/197691/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/1b12ed/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/1b12ed/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/1cc523/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/1cc523/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/227618/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/227618/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/26997d/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/26997d/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/26d89d/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/26d89d/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/2889b0/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/2b8e22/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/2b8e22/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/2f674a/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/2f674a/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/3216b0/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/3216b0/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/33d574/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/33d574/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/39e392/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/39e392/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/454a9b/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/454a9b/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/4f06cd/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/4f06cd/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/52d5c3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/52d5c3/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/53b6d6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/53b6d6/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/54651a/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/54651a/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/5d571c/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/5d571c/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/793dcb/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/793dcb/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/8cc794/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/8cc794/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/8dfab5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/8dfab5/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/953ddf/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/953ddf/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/9ae0bd/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/9ae0bd/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/9cc27d/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/9cc27d/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/a20ce8/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/a20ce8/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/a2f161/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/a2f161/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/b45451/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/b45451/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/c5a54d/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/c5a54d/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/c62c28/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/c62c28/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/ca3c2c/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/ca3c2c/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/ce175c/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/ce175c/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/d0d7eb/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/d0d7eb/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/db78e2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/db78e2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/dd027d/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/dd027d/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/f14bdb/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/f14bdb/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/f51918/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/f51918/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/f814bd/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/f814bd/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,6 +16,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="VampireAchao &lt;achao1441470436@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitToolBoxStore">
@@ -119,34 +34,50 @@
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "MTConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MTConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7a79be47-8a5a-4f6f-8fc2-adcb5a7595a6" name="Changes" comment="" />
+      <changelist id="53997e8a-f93c-4612-8d74-e651fb9dc094" name="Changes" comment="" />
       <created>1686148153464</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1686148153464</updated>
       <workItem from="1686148155855" duration="703000" />
+      <workItem from="1686188967221" duration="859000" />
+      <workItem from="1687847581337" duration="12000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1686189055853</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686189055853</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
 </project>
