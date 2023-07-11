@@ -57,6 +57,7 @@
       <workItem from="1686188967221" duration="859000" />
       <workItem from="1687847581337" duration="12000" />
       <workItem from="1689043064353" duration="44000" />
+      <workItem from="1689043148959" duration="54000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1686189055853</created>
@@ -65,13 +66,22 @@
       <option name="project" value="LOCAL" />
       <updated>1686189055853</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init">
+      <created>1689043194192</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1689043194192</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CODE_SMELLS_PROFILE" value="Project Default" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="init" />
     <option name="LAST_COMMIT_MESSAGE" value="init" />
