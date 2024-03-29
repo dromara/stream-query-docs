@@ -1,0 +1,10 @@
+pages:
+  stage: deploy
+  script:
+    - npm i
+    - npm run build
+  artifacts:
+    paths:
+      - dist/
+  only:
+    - site-v2
