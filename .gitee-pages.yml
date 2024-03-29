@@ -5,6 +5,6 @@ pages:
     - npm run build
   artifacts:
     paths:
-      - dist/
+      - docs/.vuepress/dist
   only:
     - site-v2
