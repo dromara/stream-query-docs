@@ -318,13 +318,3 @@ postList: none
     display: block;
   }
 </style>
-<script>
- window.difyChatbotConfig = {
-  token: 'lFl9tu1OOd8xGeRz'
- }
-</script>
-<script
- src="https://udify.app/embed.min.js"
- id="lFl9tu1OOd8xGeRz"
- defer>
-</script>
