@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: https://plus.hutool.cn/images/dromara/stream-query.png
-heroText: 
+heroText:
 tagline: 允许完全摆脱Mapper的mybatis-plus🌽体验！可以使用类似“工具类”🔧这样的静态函数进行数据库操作
 actionText: 开始使用 →
 actionLink: /pages/a2f161/
@@ -66,6 +66,12 @@ postList: none
 <a target="_blank" href="https://www.jnpfsoft.com/index.html?from=stream-query">
   <img src="/img/sponsor/yinmaisoft.jpg" />
 </a>
+
+<a target="_blank" href="http://doc.zyplayer.com/#/integrate/zyplayer-doc?utm=stream-query">
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <img src="/img/sponsor/logo-正方形.jpg" style="max-width: 100%; max-height: 50%;" alt="">
+  </div>
+  </a>
 
 ## ⛄开发团队成员
 ::: cardList 3
